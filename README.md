@@ -100,7 +100,7 @@ int main()
 
 ```
 
-## step01-5_所有的數值幾乎都成立, 只有 0 是不成意
+## step01-5_所有的數值幾乎都成立, 只有 0 是不成立
 ```cpp
 #include<stdio.h>
 int main()
